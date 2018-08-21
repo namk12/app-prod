@@ -1,1 +1,2 @@
-greeting: "hello from repo"
+greeting: greeting from application
+val_1: val from application
